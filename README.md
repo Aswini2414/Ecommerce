@@ -8,7 +8,7 @@
 #### Clone the Project
 
 ```
-git clone https://github.com/Aswini2414/New-Pdf-Generator-frontend.git
+git clone https://github.com/Aswini2414/Ecommerce.git
 ```
 
 #### Go to Project directory
